@@ -1,0 +1,4 @@
+fastapi==0.95.0
+opencv_python==4.7.0.72
+yolov7==0.0.1
+yolov7detect==1.0.1
