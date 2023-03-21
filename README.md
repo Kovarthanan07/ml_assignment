@@ -6,10 +6,10 @@ This repo is created for the interview purpose. Here pre-trained yolov7-tiny was
 create a directory in the name of **images** as follows,
 ``` folder
 ml_assignment
------ main.py
------ README.md
------ requirements.txt
------ images
+> main.py
+> README.md
+> requirements.txt
+> images
 
 ```
 
